@@ -1,0 +1,7 @@
+name: imc-aibeg-train-env
+channels:  
+ - defaults
+dependencies:  
+- python=3.10  
+- openai  
+- python-dotenv
